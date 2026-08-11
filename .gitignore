@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+.venv/
+
+# Personal learning files
+Data/
+
+# PyCharm
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
